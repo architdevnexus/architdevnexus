@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Archit Sureka
+# Hi, I’m Archit Sureka
 
  **Full Stack Developer | Joint CEO at DevNexus Solutions | Problem Solver**  
 JavaScript | React.js | HTML5 | CSS3 | Firebase | CMS | DevOps | UI/UX
