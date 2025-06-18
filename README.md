@@ -1,15 +1,15 @@
-# 👋 Hi, I’m Ankit Sureka
+# 👋 Hi, I’m Archit Sureka
 
  **Full Stack Developer | Joint CEO at DevNexus Solutions | Problem Solver**  
- JavaScript | React.js | Tailwind CSS | Node.js | MySQL | HTML5 | CSS3 | DSA
+JavaScript | React.js | HTML5 | CSS3 | Firebase | CMS | DevOps | UI/UX
 
 ---
 
 ## 🧑‍💼 About Me
 
-I am a passionate Full Stack Developer and the **Joint CEO at DevNexus Solutions**, with 7+ years of experience in building scalable, user-centric web applications. I specialize in frontend and backend development using modern JavaScript technologies, and I thrive on solving real-world problems with clean, efficient code.
+I am a results-driven Full-Stack Developer and Co-Chief Executive Officer at DevNexus Solutions, with over 7 years of experience delivering scalable, user-centric web applications. I specialize in both frontend and backend development, leveraging modern JavaScript technologies to build high-performance digital solutions. My approach emphasizes clean architecture, efficient code, and real-world problem-solving.
 
-With an M.Sc. in IT & Management from **GD Goenka World Institute (Lancaster University)**, I bring a unique blend of technical knowledge and strategic thinking to every project I work on.
+I hold a Master of Engineering (MEng) from GD Goenka World Institute, in collaboration with Lancaster University, equipping me with a strong foundation in technical expertise and strategic thinking. I bring a holistic perspective to every project, aligning development practices with business objectives to create impactful outcomes.
 
 ---
 
@@ -32,17 +32,17 @@ As the **Joint CEO** of DevNexus Solutions, I’m responsible for co-leading the
 - Introduced DevOps pipelines for efficient CI/CD processes.
 - Developed HR solutions and internal tools that improved operational efficiency.
 
-My role at DevNexus blends entrepreneurial spirit with engineering expertise—aimed at delivering real impact for businesses through quality software.
+My role at DevNexus blends entrepreneurial spirit with engineering expertise, aimed at delivering real impact for businesses through quality software.
 
 ---
 
 ## Tech Stack & Skills
 
-- **Frontend:** NextJs, React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, Java, Python  
+- **Frontend:** React.js, JavaScript, HTML5, CSS3  
+- **Backend:** Java, Python  
 - **Database:** MySQL, MongoDB  
 - **Version Control:** Git, GitHub  
-- **Other Skills:** API Development, Cloud Deployment, DevOps (CI/CD), DSA
+- **Other Skills:** API Development, Cloud Deployment, DevOps (CI/CD).
 
 ---
 
@@ -55,11 +55,11 @@ I’m deeply passionate about technology and growth. I continuously explore new 
 ## Projects & GitHub
 
 Check out my repositories to see what I’ve been working on!  
-Most of my projects are available right here on [GitHub](https://github.com/Ankit-DevNexus).
+Most of my projects are available right here on [GitHub](https://github.com/architdevnexus).
 
 Let’s build something great together!
 
 ---
 
  **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/ankit-sureka-534a63353/) | [Portfolio](#) | [Email](mailto:ankit@devnexus.in)
+[LinkedIn](https://www.linkedin.com/in/archit-sureka-b6a95435a/) | [Portfolio](#) | [Email](mailto:archit@devnexus.in)
