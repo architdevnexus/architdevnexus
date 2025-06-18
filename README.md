@@ -1,6 +1,6 @@
 # Hi, I’m Archit Sureka
 
- **Full Stack Developer | Joint CEO at DevNexus Solutions | Problem Solver**  
+ **Full Stack Developer | COO at DevNexus Solutions | Problem Solver**  
 JavaScript | React.js | HTML5 | CSS3 | Firebase | CMS | DevOps | UI/UX
 
 ---
@@ -13,11 +13,11 @@ I hold a Master of Engineering (MEng) from GD Goenka World Institute, in collabo
 
 ---
 
-## Current Role: Joint CEO at DevNexus Solutions
+## Current Role: COO at DevNexus Solutions
 
  *April 2025 – Present | Gurugram, Haryana, India (On-site)*
 
-As the **Joint CEO** of DevNexus Solutions, I’m responsible for co-leading the company’s vision, strategy, and technological innovation. I bridge leadership with technical execution—overseeing product development while staying hands-on with code, architecture, and mentorship.
+As the **COO** of DevNexus Solutions, I’m responsible for co-leading the company’s vision, strategy, and technological innovation. I bridge leadership with technical execution—overseeing product development while staying hands-on with code, architecture, and mentorship.
 
 ###  Key Responsibilities:
 - Leading software development initiatives and defining the company’s technical direction.
